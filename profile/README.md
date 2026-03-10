@@ -1,13 +1,10 @@
 <div align="center">
 
-<img src="https://go.dev/blog/go-brand/Go-Logo/PNG/Go-Logo_Blue.png" alt="Go Logo" width="120" />
-
 # Go-Universify
 
-**Open-source Go packages and tools — universally accessible, production-ready.**
+**Open-source software — universally accessible, production-ready.**
 
 [![GitHub followers](https://img.shields.io/github/followers/Go-Universify?style=flat-square&logo=github&label=Follow)](https://github.com/Go-Universify)
-[![Go Version](https://img.shields.io/badge/Go-1.21%2B-00ADD8?style=flat-square&logo=go)](https://go.dev)
 [![License](https://img.shields.io/badge/License-MIT-blue?style=flat-square)](https://opensource.org/licenses/MIT)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen?style=flat-square)](https://github.com/Go-Universify/.github/blob/main/CONTRIBUTING.md)
 
@@ -17,9 +14,9 @@
 
 ## 🚀 About Us
 
-**Go-Universify** is a community-driven open-source initiative dedicated to building reusable, well-tested packages and tools for the [Go](https://go.dev) ecosystem.
+**Go-Universify** is a community-driven open-source initiative dedicated to building reusable, well-tested software and tools.
 
-Our mission is simple: **make high-quality Go software universally accessible** — whether you are a beginner exploring Go for the first time or a seasoned engineer building production systems.
+Our mission is simple: **make high-quality software universally accessible** — whether you are a beginner exploring open-source for the first time or a seasoned engineer building production systems.
 
 We believe great software is:
 
@@ -34,11 +31,11 @@ We believe great software is:
 
 | Category | Description |
 |----------|-------------|
-| 🧰 **Utility Libraries** | General-purpose helpers for common Go patterns |
+| 🧰 **Utility Libraries** | General-purpose helpers for common programming patterns |
 | 🌐 **HTTP & Networking** | Middleware, clients, and server utilities |
 | 🗄️ **Data & Storage** | Abstractions for databases, caches, and file I/O |
-| 🧪 **Testing Tools** | Helpers that make Go tests easier to write and maintain |
-| ⚙️ **CLI Tooling** | Command-line tools built with Go for Go developers |
+| 🧪 **Testing Tools** | Helpers that make tests easier to write and maintain |
+| ⚙️ **CLI Tooling** | Command-line tools built for developers |
 
 Browse all projects on our [GitHub Repositories](https://github.com/orgs/Go-Universify/repositories) page.
 
@@ -73,6 +70,6 @@ Found a vulnerability? Please **do not** open a public issue. Instead, follow ou
 
 <div align="center">
 
-Built with ❤️ and Go by the **Go-Universify** community
+Built with ❤️ by the **Go-Universify** community
 
 </div>
