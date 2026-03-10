@@ -1,0 +1,16 @@
+name: .github
+id: ari:cloud:compass:f069154d-13ba-4658-bf24-3de1fcfe456f:component/e05aa692-7b64-4fbc-8ed9-36e05f35e610/9d728a5b-89fd-41de-950b-8b277f358777
+description: null
+configVersion: 1
+typeId: SERVICE
+fields:
+  tier: 4
+links:
+  - name: null
+    type: REPOSITORY
+    url: https://github.com/Go-Universify/.github
+relationships:
+  DEPENDS_ON: []
+labels:
+  - source:github
+customFields: null
