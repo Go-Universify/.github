@@ -1,8 +1,9 @@
 <div align="center">
 
+![](https://avatars.githubusercontent.com/u/87274208?s=96&v=4)
 # Go-Universify
 
-**Open-source software — universally accessible, production-ready.**
+**Open-source Smart Home Framework — universally accessible, production-ready.**
 
 [![GitHub followers](https://img.shields.io/github/followers/Go-Universify?style=flat-square&logo=github&label=Follow)](https://github.com/Go-Universify)
 [![License](https://img.shields.io/badge/License-MIT-blue?style=flat-square)](https://opensource.org/licenses/MIT)
@@ -14,9 +15,7 @@
 
 ## 🚀 About Us
 
-**Go-Universify** is a community-driven open-source initiative dedicated to building reusable, well-tested software and tools.
-
-Our mission is simple: **make high-quality software universally accessible** — whether you are a beginner exploring open-source for the first time or a seasoned engineer building production systems.
+**Go-Universify** is a community-driven open-source smart home initiative dedicated to building open and well-tested smarthome device and device unification framework for interoperability.
 
 We believe great software is:
 
@@ -36,6 +35,7 @@ We believe great software is:
 | 🗄️ **Data & Storage** | Abstractions for databases, caches, and file I/O |
 | 🧪 **Testing Tools** | Helpers that make tests easier to write and maintain |
 | ⚙️ **CLI Tooling** | Command-line tools built for developers |
+| 🔌 **Hardware** | Open-Source Hardware, Built for Modification |
 
 Browse all projects on our [GitHub Repositories](https://github.com/orgs/Go-Universify/repositories) page.
 
