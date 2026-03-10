@@ -73,5 +73,5 @@ Found a vulnerability? Please **do not** open a public issue. Instead, follow ou
 Built with ❤️ by the **Go-Universify** community
 
 </div>
-<img width="32" height="32" alt="termius-icon-64" src="https://github.com/user-attachments/assets/20eda040-8d44-4019-9735-41f3a063887b" /> [Termius](https://termius.com) provides a secure, reliable, and collaborative SSH client.
+<img width="32" height="32" alt="termius-icon-64" src="https://github.com/user-attachments/assets/20eda040-8d44-4019-9735-41f3a063887b" /> <a href="https://termius.com">Termius</a> provides a secure, reliable, and collaborative SSH client.
 
