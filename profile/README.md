@@ -3,7 +3,7 @@
 ![](https://avatars.githubusercontent.com/u/87274208?s=96&v=4)
 # Go-Universify
 
-**Open-source Smart Home Framework — universally accessible, production-ready.**
+**A Backend as a Service Framework — universally accessible, production-ready.**
 
 [![GitHub followers](https://img.shields.io/github/followers/Go-Universify?style=flat-square&logo=github&label=Follow)](https://github.com/Go-Universify)
 [![License](https://img.shields.io/badge/License-MIT-blue?style=flat-square)](https://opensource.org/licenses/MIT)
@@ -15,7 +15,7 @@
 
 ## 🚀 About Us
 
-**Go-Universify** is a community-driven open-source smart home initiative dedicated to building open and well-tested smarthome device and device unification framework for interoperability.
+**Go-Universify** is a backend as a service framework dedicated to building api(s) without code.
 
 We believe great software is:
 
